@@ -1,0 +1,31 @@
+body{
+    background-size: cover;
+}
+#bedroom{
+    background-color: white;
+    border-radius: 10px;
+    width: 250;
+}
+
+#tvandac{
+    background-color: white;
+    border-radius: 10px;
+    width: 250;
+}
+#Desk{
+    background-color: white;
+    border-radius: 10px;
+    width: 250;
+}
+
+#Bottles{
+    background-color: white;
+    border-radius: 10px;
+    width: 250;
+}
+
+#fruitbasket{
+    background-color: white;
+    border-radius: 10px;
+    width: 250;
+}
